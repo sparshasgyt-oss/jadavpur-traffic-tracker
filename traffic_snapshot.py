@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 # Reads token securely from GitHub Secret
-MAPBOX_TOKEN = os.environ.get("MAPBOX_TOKEN")
+MAPBOX_TOKEN = os.environ.get("MAPBOX_TOKEN") or "pk.eyJ1Ijoic2dzcGFyc2hhIiwiYSI6ImNtdW5peWNpNjBhb24zNHNiMXhtdTJuaTYifQ.ME6fTWmcgahJugYdQExSrw"
 
 ROUTES = {
     "Jadavpur_Stn_to_8B": "88.3698,22.4988;88.3691,22.4953",
