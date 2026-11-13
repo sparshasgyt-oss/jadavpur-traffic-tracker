@@ -662,3 +662,6 @@ Timestamp,Route_Name,Distance_km,Live_Duration_min,Typical_Duration_min,Delay_mi
 2026-11-13 18:45:11,Jadavpur_Stn_to_8B,1.14,5.16,4.95,0.21
 2026-11-13 18:45:11,8B_to_Sulekha,0.71,3.31,2.95,0.36
 2026-11-13 18:45:11,Sulekha_to_8B,0.91,4.68,3.13,1.55
+2026-11-13 23:54:47,Jadavpur_Stn_to_8B,1.14,3.42,4.98,0.0
+2026-11-13 23:54:48,8B_to_Sulekha,0.71,2.19,2.9,0.0
+2026-11-13 23:54:48,Sulekha_to_8B,0.91,2.76,3.08,0.0
